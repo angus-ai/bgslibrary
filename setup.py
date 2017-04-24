@@ -75,7 +75,7 @@ LIBBGS = Extension(
 setup(name="bgslibrary",
       version="2.0.0",
       author="Andrews Sobral",
-      description=__doc__,
+      description="The bgslibrary python bindings",
       license="GNU General Public License v3 (GPLv3)",
       install_requires=[
           "numpy",
